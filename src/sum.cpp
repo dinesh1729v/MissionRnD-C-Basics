@@ -13,5 +13,7 @@ NOTES:
 
 int sum(int a, int b)
 {
-	return 0;
+	int sum = 0;
+	sum = a + b;
+	return sum;
 }
